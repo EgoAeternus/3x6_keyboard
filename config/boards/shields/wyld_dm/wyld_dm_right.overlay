@@ -10,14 +10,24 @@
 ///  PILLBUG PINS
 
 &kscan0 {
+    row-gpios
+			= <&gpio1 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PB1  / 1.11
+			, <&gpio0 2 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PB0  / 1.09
+			, <&gpio1 15 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA4  / 1.11
+			, <&gpio0 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA3  / 0.31
+            , <&gpio0 31 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA2  / 1.15
+			, <&gpio0 3 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA1  / 1.06
+			, <&gpio1 14 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA1  / 1.06
+            ;
+
     col-gpios
 			= <&gpio0 19  GPIO_ACTIVE_HIGH>  // PB4   / 0.19
             , <&gpio1 1  GPIO_ACTIVE_HIGH>  // PB5   / 1.01
 			, <&gpio0 29  GPIO_ACTIVE_HIGH>  // PB5   / 0.29
 			, <&gpio1 10  GPIO_ACTIVE_HIGH>  // PB13   / 1.10
-			, <&gpio1 02  GPIO_ACTIVE_HIGH>  // PB13   / 1.02
-            , <&gpio1 04 GPIO_ACTIVE_HIGH>  // PB13   / 1.04
-            , <&gpio1 06 GPIO_ACTIVE_HIGH>  // PB13   / 1.06  encoder column only
+			, <&gpio1 2  GPIO_ACTIVE_HIGH>  // PB13   / 1.02
+            , <&gpio1 4 GPIO_ACTIVE_HIGH>  // PB13   / 1.04
+            , <&gpio1 6 GPIO_ACTIVE_HIGH>  // PB13   / 1.06  encoder column only
 			;
 };
 
