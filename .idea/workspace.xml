@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="nano">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="delimiters...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" afterDir="false" />
     </list>
@@ -108,15 +108,7 @@
       <workItem from="1711478792751" duration="9732000" />
       <workItem from="1711590711763" duration="2122000" />
       <workItem from="1711646266065" duration="3702000" />
-      <workItem from="1734636497469" duration="8394000" />
-    </task>
-    <task id="LOCAL-00123" summary="building mebbe">
-      <option name="closed" value="true" />
-      <created>1710909266287</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1710909266287</updated>
+      <workItem from="1734636497469" duration="9258000" />
     </task>
     <task id="LOCAL-00124" summary="no ext_power keys">
       <option name="closed" value="true" />
@@ -502,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734648836460</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="delimiters...">
+      <option name="closed" value="true" />
+      <created>1734649203353</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1734649203353</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4 key trackball cluster, reworked rows, updated info.json" />
     <MESSAGE value="Reordered info.json" />
     <MESSAGE value="Reordered info.json 2" />
     <MESSAGE value="adjustments" />
@@ -589,7 +588,8 @@
     <MESSAGE value="6x7 setup" />
     <MESSAGE value="typo fun" />
     <MESSAGE value="nano" />
-    <option name="LAST_COMMIT_MESSAGE" value="nano" />
+    <MESSAGE value="delimiters..." />
+    <option name="LAST_COMMIT_MESSAGE" value="delimiters..." />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
