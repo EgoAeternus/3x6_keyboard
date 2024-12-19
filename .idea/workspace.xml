@@ -12,9 +12,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="pillbuggy">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="disable logging">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/wyld_dm.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wyld_dm.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.keymap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,15 +109,7 @@
       <workItem from="1711478792751" duration="9732000" />
       <workItem from="1711590711763" duration="2122000" />
       <workItem from="1711646266065" duration="3702000" />
-      <workItem from="1734636497469" duration="3147000" />
-    </task>
-    <task id="LOCAL-00119" summary="mebbe 8">
-      <option name="closed" value="true" />
-      <created>1710907652861</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1710907652861</updated>
+      <workItem from="1734636497469" duration="4576000" />
     </task>
     <task id="LOCAL-00120" summary="mebbe 9">
       <option name="closed" value="true" />
@@ -502,7 +495,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734642915138</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="disable logging">
+      <option name="closed" value="true" />
+      <created>1734643154113</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1734643154113</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update keymap and layout" />
     <MESSAGE value="Thumb row is row 0" />
     <MESSAGE value="typos" />
     <MESSAGE value="typos galore" />
@@ -589,7 +589,8 @@
     <MESSAGE value="Swap home and mute" />
     <MESSAGE value="Added mouse layer" />
     <MESSAGE value="pillbuggy" />
-    <option name="LAST_COMMIT_MESSAGE" value="pillbuggy" />
+    <MESSAGE value="disable logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="disable logging" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
