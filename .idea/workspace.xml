@@ -12,15 +12,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="typo fun">
-      <change afterPath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="nano">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/build.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/pillbug.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/pillbug.overlay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_left.overlay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/wyld_dm.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,15 +108,7 @@
       <workItem from="1711478792751" duration="9732000" />
       <workItem from="1711590711763" duration="2122000" />
       <workItem from="1711646266065" duration="3702000" />
-      <workItem from="1734636497469" duration="8010000" />
-    </task>
-    <task id="LOCAL-00122" summary="include">
-      <option name="closed" value="true" />
-      <created>1710908965581</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1710908965581</updated>
+      <workItem from="1734636497469" duration="8394000" />
     </task>
     <task id="LOCAL-00123" summary="building mebbe">
       <option name="closed" value="true" />
@@ -508,7 +494,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734645081567</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="nano">
+      <option name="closed" value="true" />
+      <created>1734648836459</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1734648836460</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="typos galore" />
     <MESSAGE value="4 key trackball cluster, reworked rows, updated info.json" />
     <MESSAGE value="Reordered info.json" />
     <MESSAGE value="Reordered info.json 2" />
@@ -595,7 +588,8 @@
     <MESSAGE value="disable logging" />
     <MESSAGE value="6x7 setup" />
     <MESSAGE value="typo fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo fun" />
+    <MESSAGE value="nano" />
+    <option name="LAST_COMMIT_MESSAGE" value="nano" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [

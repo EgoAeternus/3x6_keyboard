@@ -31,8 +31,8 @@
 //            low-power-enable;
 //        };
 //    };
-//};
-//
+};
+
 &spi3 {
   compatible = "nordic,nrf-spim";
   status = "okay";
