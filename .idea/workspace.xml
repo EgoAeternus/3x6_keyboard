@@ -12,8 +12,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="add logging and point to base zmk">
-      <change beforePath="$PROJECT_DIR$/config/west.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/west.yml" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="revision main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/pillbug.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/pillbug.overlay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/Kconfig.defconfig" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/Kconfig.defconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wyld_dm.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wyld_dm.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.keymap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,15 +113,7 @@
       <workItem from="1711590711763" duration="2122000" />
       <workItem from="1711646266065" duration="3702000" />
       <workItem from="1734636497469" duration="11699000" />
-      <workItem from="1734734075154" duration="1147000" />
-    </task>
-    <task id="LOCAL-00127" summary="enable ext pwr?">
-      <option name="closed" value="true" />
-      <created>1710947055020</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1710947055020</updated>
+      <workItem from="1734734075154" duration="3742000" />
     </task>
     <task id="LOCAL-00128" summary="going minimal">
       <option name="closed" value="true" />
@@ -502,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734735058220</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="revision main">
+      <option name="closed" value="true" />
+      <created>1734735234399</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1734735234399</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adjustments 2" />
     <MESSAGE value="adjustments 99" />
     <MESSAGE value="adjustments 999" />
     <MESSAGE value="adjustments 9999" />
@@ -589,7 +593,8 @@
     <MESSAGE value="led" />
     <MESSAGE value="Rows on left" />
     <MESSAGE value="add logging and point to base zmk" />
-    <option name="LAST_COMMIT_MESSAGE" value="add logging and point to base zmk" />
+    <MESSAGE value="revision main" />
+    <option name="LAST_COMMIT_MESSAGE" value="revision main" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
