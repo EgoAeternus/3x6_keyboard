@@ -12,9 +12,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="delimiters...">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="led">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,15 +107,7 @@
       <workItem from="1711478792751" duration="9732000" />
       <workItem from="1711590711763" duration="2122000" />
       <workItem from="1711646266065" duration="3702000" />
-      <workItem from="1734636497469" duration="9258000" />
-    </task>
-    <task id="LOCAL-00124" summary="no ext_power keys">
-      <option name="closed" value="true" />
-      <created>1710909628984</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1710909628984</updated>
+      <workItem from="1734636497469" duration="11699000" />
     </task>
     <task id="LOCAL-00125" summary="eh??">
       <option name="closed" value="true" />
@@ -502,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734649203353</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="led">
+      <option name="closed" value="true" />
+      <created>1734652248861</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1734652248861</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reordered info.json" />
     <MESSAGE value="Reordered info.json 2" />
     <MESSAGE value="adjustments" />
     <MESSAGE value="adjustments 2" />
@@ -589,7 +587,8 @@
     <MESSAGE value="typo fun" />
     <MESSAGE value="nano" />
     <MESSAGE value="delimiters..." />
-    <option name="LAST_COMMIT_MESSAGE" value="delimiters..." />
+    <MESSAGE value="led" />
+    <option name="LAST_COMMIT_MESSAGE" value="led" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
