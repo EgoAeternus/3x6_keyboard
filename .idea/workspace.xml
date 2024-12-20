@@ -12,8 +12,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="led">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="Rows on left">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/build.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/west.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/west.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wyld_dm.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +36,18 @@
     <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bullwinkle3000"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bullwinkle3000&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:bullwinkle3000/zmk-config-nano.git",
-    "accountId": "8b556ffe-0185-4ce2-b756-070cb1ec95ce"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:bullwinkle3000/zmk-config-nano.git&quot;,
+    &quot;accountId&quot;: &quot;8b556ffe-0185-4ce2-b756-070cb1ec95ce&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -108,14 +111,7 @@
       <workItem from="1711590711763" duration="2122000" />
       <workItem from="1711646266065" duration="3702000" />
       <workItem from="1734636497469" duration="11699000" />
-    </task>
-    <task id="LOCAL-00125" summary="eh??">
-      <option name="closed" value="true" />
-      <created>1710911252796</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1710911252796</updated>
+      <workItem from="1734734075154" duration="964000" />
     </task>
     <task id="LOCAL-00126" summary="checking pillbug behavior">
       <option name="closed" value="true" />
@@ -501,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734652248861</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="Rows on left">
+      <option name="closed" value="true" />
+      <created>1734734282002</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1734734282002</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -563,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reordered info.json 2" />
     <MESSAGE value="adjustments" />
     <MESSAGE value="adjustments 2" />
     <MESSAGE value="adjustments 99" />
@@ -588,7 +591,8 @@
     <MESSAGE value="nano" />
     <MESSAGE value="delimiters..." />
     <MESSAGE value="led" />
-    <option name="LAST_COMMIT_MESSAGE" value="led" />
+    <MESSAGE value="Rows on left" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rows on left" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
