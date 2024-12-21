@@ -12,8 +12,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="REWORKED ROWS">
-      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.overlay" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="right rows">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,22 +111,6 @@
       <workItem from="1734636497469" duration="11699000" />
       <workItem from="1734734075154" duration="9694000" />
       <workItem from="1734808431394" duration="151000" />
-    </task>
-    <task id="LOCAL-00132" summary="Standard zmk">
-      <option name="closed" value="true" />
-      <created>1710957556533</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1710957556533</updated>
-    </task>
-    <task id="LOCAL-00133" summary="Remove mouse_keys.dtsi include">
-      <option name="closed" value="true" />
-      <created>1710958518981</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1710958518981</updated>
     </task>
     <task id="LOCAL-00134" summary="Restored mouse bits, moving underglow to 0,6 data pin">
       <option name="closed" value="true" />
@@ -503,7 +488,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734807737576</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="right rows">
+      <option name="closed" value="true" />
+      <created>1734813364241</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1734813364241</updated>
+    </task>
+    <task id="LOCAL-00182" summary="right rows">
+      <option name="closed" value="true" />
+      <created>1734813581270</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1734813581270</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adjustments eh?" />
     <MESSAGE value="adjustments ok" />
     <MESSAGE value="row tweaks" />
     <MESSAGE value="typos forever" />
@@ -590,7 +590,8 @@
     <MESSAGE value="errors in row/cols on right" />
     <MESSAGE value="added oled to chosen" />
     <MESSAGE value="REWORKED ROWS" />
-    <option name="LAST_COMMIT_MESSAGE" value="REWORKED ROWS" />
+    <MESSAGE value="right rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="right rows" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
