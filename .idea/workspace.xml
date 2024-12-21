@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="right rows">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="Fixing info.json layout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/info.json" afterDir="false" />
     </list>
@@ -111,14 +111,6 @@
       <workItem from="1734636497469" duration="11699000" />
       <workItem from="1734734075154" duration="9694000" />
       <workItem from="1734808431394" duration="151000" />
-    </task>
-    <task id="LOCAL-00134" summary="Restored mouse bits, moving underglow to 0,6 data pin">
-      <option name="closed" value="true" />
-      <created>1710959585698</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1710959585698</updated>
     </task>
     <task id="LOCAL-00135" summary="Moving pins around">
       <option name="closed" value="true" />
@@ -504,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734813581270</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="Fixing info.json layout">
+      <option name="closed" value="true" />
+      <created>1734818381199</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1734818381199</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +566,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="adjustments ok" />
     <MESSAGE value="row tweaks" />
     <MESSAGE value="typos forever" />
     <MESSAGE value="some bad search and replace" />
@@ -591,7 +590,8 @@
     <MESSAGE value="added oled to chosen" />
     <MESSAGE value="REWORKED ROWS" />
     <MESSAGE value="right rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="right rows" />
+    <MESSAGE value="Fixing info.json layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing info.json layout" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
