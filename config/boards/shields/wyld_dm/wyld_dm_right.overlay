@@ -11,13 +11,13 @@
 
 &kscan0 {
     row-gpios
-			= <&gpio1 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PB1  / 1.11
-			, <&gpio0 2 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PB0  / 1.09
+			= <&gpio0 2 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PB0  / 1.09
 			, <&gpio1 15 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA4  / 1.11
 			, <&gpio0 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA3  / 0.31
             , <&gpio0 31 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA2  / 1.15
 			, <&gpio0 3 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA1  / 1.06
 			, <&gpio1 14 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PA1  / 1.06
+			, <&gpio1 11 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  // PB1  / 1.11
             ;
 
     col-gpios
@@ -84,7 +84,7 @@
         reg = <0>;
         spi-max-frequency = <2000000>;
         irq-gpios = <&gpio0 24 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
-        snipe-layers = <1>;
+        snipe-layers = <1>;-
         scroll-layers = <2>;
         automouse-layer = <3>;
     };
