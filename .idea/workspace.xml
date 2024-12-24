@@ -12,8 +12,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="Fixing info.json layout">
-      <change beforePath="$PROJECT_DIR$/config/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/info.json" afterDir="false" />
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="Looking good in keymap editor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,14 +111,7 @@
       <workItem from="1734636497469" duration="11699000" />
       <workItem from="1734734075154" duration="9694000" />
       <workItem from="1734808431394" duration="151000" />
-    </task>
-    <task id="LOCAL-00137" summary="maybe maybe">
-      <option name="closed" value="true" />
-      <created>1710972175005</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1710972175005</updated>
+      <workItem from="1734987204192" duration="871000" />
     </task>
     <task id="LOCAL-00138" summary="maybe maybe without logging">
       <option name="closed" value="true" />
@@ -503,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734818978538</updated>
     </task>
-    <option name="localTasksCounter" value="186" />
+    <task id="LOCAL-00186" summary="Looking good in keymap editor">
+      <option name="closed" value="true" />
+      <created>1734819073410</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1734819073410</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="row tweaks" />
     <MESSAGE value="typos forever" />
     <MESSAGE value="some bad search and replace" />
     <MESSAGE value="reverse columns for right side" />
@@ -590,7 +591,8 @@
     <MESSAGE value="REWORKED ROWS" />
     <MESSAGE value="right rows" />
     <MESSAGE value="Fixing info.json layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing info.json layout" />
+    <MESSAGE value="Looking good in keymap editor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Looking good in keymap editor" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
