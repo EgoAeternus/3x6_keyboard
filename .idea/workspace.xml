@@ -12,9 +12,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="keymap fixes">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="info.json">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/wyld_dm.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/wyld_dm.keymap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +114,6 @@
       <workItem from="1734808431394" duration="151000" />
       <workItem from="1734987204192" duration="2864000" />
       <workItem from="1735064020147" duration="28000" />
-    </task>
-    <task id="LOCAL-00141" summary="trying leds on new pin">
-      <option name="closed" value="true" />
-      <created>1710984169378</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1710984169378</updated>
     </task>
     <task id="LOCAL-00142" summary="Update keymap and layout">
       <option name="closed" value="true" />
@@ -506,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736201428008</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="info.json">
+      <option name="closed" value="true" />
+      <created>1736202454232</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1736202454232</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="re-enable encoders" />
     <MESSAGE value="missed encoder status" />
     <MESSAGE value="encoders on row 0, thumbs" />
     <MESSAGE value="added RGB control keys" />
@@ -593,7 +593,8 @@
     <MESSAGE value="left encoder on wrong column" />
     <MESSAGE value="Final pieces" />
     <MESSAGE value="keymap fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="keymap fixes" />
+    <MESSAGE value="info.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="info.json" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
