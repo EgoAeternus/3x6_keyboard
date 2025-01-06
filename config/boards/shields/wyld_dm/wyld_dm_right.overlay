@@ -1,7 +1,6 @@
 // wyld_dm_right.overlay
 
 #include "wyld_dm.dtsi"
-#include <dt-bindings/led/led.h>
 
 &default_transform {
     col-offset = <7>;

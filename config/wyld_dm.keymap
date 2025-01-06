@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include <dt-bindings/led/led.h>
+//#include <dt-bindings/led/led.h>
 #include <behaviors/mouse_keys.dtsi>
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
@@ -12,7 +12,7 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/mouse.h>
 #include <dt-bindings/zmk/outputs.h>
-#include <dt-bindings/zmk/rgb.h>
+//#include <dt-bindings/zmk/rgb.h>
 
 // triggering build
 
@@ -22,19 +22,6 @@
 
 //# 4x6 with encoders
 / {
-    behaviors {
-        rgb_encoder_bright: rgb_encoder_bright {
-            compatible = "zmk,behavior-sensor-rotate";
-            #sensor-binding-cells = <0>;
-            bindings = <&rgb_ug RGB_BRI>, <&rgb_ug RGB_BRD>;
-        };
-
-        rgb_encoder_hue: rgb_encoder_hue {
-            compatible = "zmk,behavior-sensor-rotate";
-            #sensor-binding-cells = <0>;
-            bindings = <&rgb_ug RGB_HUI>, <&rgb_ug RGB_HUD>;
-        };
-    };
 
 	keymap {
 		compatible = "zmk,keymap";
@@ -72,7 +59,7 @@
 
 			>;
 
-			sensor-bindings = <&rgb_encoder_bright &rgb_encoder_hue>;
+            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &inc_dec_kp PG_UP PG_DN>;
 
 		};
 
@@ -113,8 +100,5 @@
 };
 
 
-&led_strip {
-    chain-length = <40>;
-};
 
 
