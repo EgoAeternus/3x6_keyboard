@@ -13,13 +13,11 @@
 #
 ---
 include:
-  - board: pillbug
+  - board: nice_nano_v2
     shield: wyld_dm_right
 #    snippet: zmk-usb-logging
   - board: nice_nano_v2
     shield: wyld_dm_left
 #    snippet: zmk-usb-logging
-  - board: pillbug
-    shield: settings_reset
   - board: nice_nano_v2
     shield: settings_reset
