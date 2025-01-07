@@ -12,9 +12,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="encoders">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="rows weird">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/nice_nano_v2.overlay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm.dtsi" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +114,6 @@
       <workItem from="1734808431394" duration="151000" />
       <workItem from="1734987204192" duration="2864000" />
       <workItem from="1735064020147" duration="28000" />
-    </task>
-    <task id="LOCAL-00143" summary="Thumb row is row 0">
-      <option name="closed" value="true" />
-      <created>1711139297679</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1711139297679</updated>
     </task>
     <task id="LOCAL-00144" summary="typos">
       <option name="closed" value="true" />
@@ -506,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736203837304</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="rows weird">
+      <option name="closed" value="true" />
+      <created>1736203941625</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1736203941625</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="encoders on row 0, thumbs" />
     <MESSAGE value="added RGB control keys" />
     <MESSAGE value="Swap home and mute" />
     <MESSAGE value="Added mouse layer" />
@@ -593,7 +593,8 @@
     <MESSAGE value="keymap fixes" />
     <MESSAGE value="info.json" />
     <MESSAGE value="encoders" />
-    <option name="LAST_COMMIT_MESSAGE" value="encoders" />
+    <MESSAGE value="rows weird" />
+    <option name="LAST_COMMIT_MESSAGE" value="rows weird" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
