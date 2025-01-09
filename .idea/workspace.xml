@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="270">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="0 degrees">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" afterDir="false" />
     </list>
@@ -144,15 +144,7 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-      <workItem from="1736456530260" duration="13000" />
-    </task>
-    <task id="LOCAL-00194" summary="logging">
-      <option name="closed" value="true" />
-      <created>1728318499617</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1728318499618</updated>
+      <workItem from="1736456530260" duration="647000" />
     </task>
     <task id="LOCAL-00195" summary="Trying different motion pin">
       <option name="closed" value="true" />
@@ -538,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736292335332</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="0 degrees">
+      <option name="closed" value="true" />
+      <created>1736456559881</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1736456559882</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="full row keys off a bit" />
     <MESSAGE value="No logging" />
     <MESSAGE value="Missed encoder in info.json" />
     <MESSAGE value="encoder definition" />
@@ -625,7 +624,8 @@
     <MESSAGE value="Rotate sensor" />
     <MESSAGE value="180" />
     <MESSAGE value="270" />
-    <option name="LAST_COMMIT_MESSAGE" value="270" />
+    <MESSAGE value="0 degrees" />
+    <option name="LAST_COMMIT_MESSAGE" value="0 degrees" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
