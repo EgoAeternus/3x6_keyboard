@@ -12,7 +12,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="180">
+    <list default="true" id="9d457d5e-e2b1-4395-864b-ea86737e1c8a" name="Changes" comment="270">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config/boards/shields/wyld_dm/wyld_dm_right.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,14 +144,7 @@
       <workItem from="1730053210259" duration="9577000" />
       <workItem from="1730122163118" duration="2099000" />
       <workItem from="1730129268524" duration="63000" />
-    </task>
-    <task id="LOCAL-00193" summary="wha?">
-      <option name="closed" value="true" />
-      <created>1728236484664</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1728236484664</updated>
+      <workItem from="1736456530260" duration="13000" />
     </task>
     <task id="LOCAL-00194" summary="logging">
       <option name="closed" value="true" />
@@ -536,7 +530,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736291968133</updated>
     </task>
-    <option name="localTasksCounter" value="242" />
+    <task id="LOCAL-00242" summary="270">
+      <option name="closed" value="true" />
+      <created>1736292335332</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1736292335332</updated>
+    </task>
+    <option name="localTasksCounter" value="243" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test info.json" />
     <MESSAGE value="full row keys off a bit" />
     <MESSAGE value="No logging" />
     <MESSAGE value="Missed encoder in info.json" />
@@ -623,7 +624,8 @@
     <MESSAGE value="point to main zmk" />
     <MESSAGE value="Rotate sensor" />
     <MESSAGE value="180" />
-    <option name="LAST_COMMIT_MESSAGE" value="180" />
+    <MESSAGE value="270" />
+    <option name="LAST_COMMIT_MESSAGE" value="270" />
   </component>
   <component name="WfRunsListSearchHistory">{
   &quot;history&quot;: [
