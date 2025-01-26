@@ -31,7 +31,7 @@
 &mkp RCLK  &kp Z  &kp X          &kp C      &kp V      &kp B          &kp N           &kp M  &kp COMMA     &kp DOT    &kp FSLH  &kp LC(V)
                   &kp BACKSPACE  &kp SPACE  &mkp LCLK  &kp ENTER      &kp LEFT_SHIFT
                                                                                       &mo 2
-                                                                                             &kp LEFT_WIN  &kp LC(C)
+                                                                                             &kp LEFT_WIN  &mkp RCLK
             >;
         };
 
